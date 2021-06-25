@@ -1,0 +1,13 @@
+== HealthCheck
+
+The health check is important in case your are not in the office. It will ask you in a regular interval if you are still feeling good. You have to press 'OK' every time. If you don't press the button, then a beep sound will notify you once more and the tool will ask you once more to make sure you did not miss it. In case you still don't answer, it will send a mail to your specified contact person.
+
+The health check will also work if you PC is locked, but not when it is in energy saving mode or turned off.
+
+When you start it, it will ask you if a checkin message is required. You can skip this.
+When pressing `alt`+`esc` it will check you out (with mail) and exit the program.
+Pressing the `pause` button on your keyboard will pause or reactivate the script in case you need a longer break, e.g. lunch.
+
+=== config
+
+Rename `config.ini.template` to `config.ini` and fill out all configuration values to your liking.
