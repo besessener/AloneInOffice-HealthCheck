@@ -6,7 +6,7 @@ The health check will also work if you PC is locked, but not when it is in energ
 
 When you start it, it will ask you if a checkin message is required. You can skip this.
 When pressing `alt`+`esc` it will check you out (with mail) and exit the program.
-Pressing the `pause` button on your keyboard will pause or reactivate the script in case you need a longer break, e.g. lunch.
+Pressing the `pause`/`break` button on your keyboard will pause or reactivate the script in case you need a longer break, e.g. lunch.
 
 === config
 
